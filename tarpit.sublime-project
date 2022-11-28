@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/christopherfelegy/Documents/Code/tarpit",
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"rust-analyzer":
+			{
+				"enabled": true,
+			},
+		},
+		"cargo_build":
+		{
+			"defaults":
+			{
+				"env":
+				{
+					"RUST_LOG": "debug"
+				}
+			}
+		},
+	},
+}
